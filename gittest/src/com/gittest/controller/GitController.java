@@ -2,7 +2,10 @@ package com.gittest.controller;
 
 public class GitController {
 	public void test() {
-		System.out.println("test");
+		String name="bs";
+	}
+	public String msg() {
+		return "git 재밌다";
 	}
 
 }
